@@ -33,3 +33,5 @@ Type "help", copyright", "credits" or "license" for more information.
 >>> compareStrings(a,b)
 'Esta frase debería ser más larga'
 ```
+
+Para finalizar, la ejecución de la función genera un archivo log.txt donde se guardan los resultados de las ejecuciones con fecha y hora de ejecución.
