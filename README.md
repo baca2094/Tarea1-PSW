@@ -1,5 +1,7 @@
 # Tarea1-PSW
 
+El archivo Tarea1BACA.py contiene una función llamada *compareStrings* que compara dos cadenas de caracteres y devuelve la más larga.
+
 ## Información del estudiante
 
 **Nombre:** Branco Antonio Catalán Arrué <br/>
